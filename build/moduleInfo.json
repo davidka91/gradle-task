@@ -1,0 +1,29 @@
+{
+  "type" : "gradle",
+  "id" : ":gradle-example-minimal:1.0-SNAPSHOT",
+  "repository" : "davidka-gradle-release",
+  "artifacts" : [ {
+    "type" : "jar",
+    "sha1" : "3360288b1635ff110c38dc61fd38ae5e9f8a0d61",
+    "sha256" : "ae75c6fa22bde6855350365af8908a94797012bbc9113932924ea2d06cb414fa",
+    "md5" : "364132b8c3ed4f396e787efab9d77652",
+    "name" : "gradle-example-minimal-1.0-SNAPSHOT.jar",
+    "path" : "/gradle-example-minimal/1.0-SNAPSHOT/gradle-example-minimal-1.0-SNAPSHOT.jar"
+  }, {
+    "type" : "module",
+    "sha1" : "d6b5f1f4e1558aed505010b6101b810e203d1d7b",
+    "sha256" : "b23cf9a789015686436e5410e2dc124190d2e1a12a93412800887f34520fef71",
+    "md5" : "0368e5e566a3ac5ef708e260fc5abe08",
+    "name" : "gradle-example-minimal-1.0-SNAPSHOT.module",
+    "path" : "/gradle-example-minimal/1.0-SNAPSHOT/gradle-example-minimal-1.0-SNAPSHOT.module"
+  }, {
+    "type" : "pom",
+    "sha1" : "18af0242e2413e1f2b72b2324a99192b645f0d45",
+    "sha256" : "58c1c71cb025001d9e86c16d06c0d5c237398deff0c5589ba6cfac035cdfdca2",
+    "md5" : "25b9c583f74fac6a73abf2f5a7ad5ccc",
+    "name" : "gradle-example-minimal-1.0-SNAPSHOT.pom",
+    "path" : "/gradle-example-minimal/1.0-SNAPSHOT/gradle-example-minimal-1.0-SNAPSHOT.pom"
+  } ],
+  "excludedArtifacts" : [ ],
+  "dependencies" : [ ]
+}
