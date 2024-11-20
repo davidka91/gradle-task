@@ -6,8 +6,8 @@
 trigger:
 - main
 
-pool:
-  vmImage: ubuntu-latest
+pool: davidka
+
 steps:
 - task: JFrogGradle@1
   inputs:
